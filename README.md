@@ -17,7 +17,7 @@ En resumen, el código crea un tablero de juego con un tamaño específico que i
 12. Una vez que el juego ha terminado, se muestra un mensaje de "GAME OVER".
 
 ## **-Tiempo de codificacion**
-el tiempo que inverti en relizando el codigo fue de 9 horas de las cuales: 
+el tiempo que inverti en relizar el codigo fue de 9 horas de las cuales: 
 + 3 horas fueron de ententer el problema 
 + 5 horas para conseguir que el codigo funcionara 
 + 1 hora para la documentacion
